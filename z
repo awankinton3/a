@@ -10,10 +10,10 @@ https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,4 SPORTZ
-https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/4/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,5 SPORTZ
-https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/5/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,6 SPORTZ
 https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
@@ -22,7 +22,7 @@ https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
 https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png ,8 SPORTZ
-https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,9 SPORTZ
 https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
