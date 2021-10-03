@@ -1,6 +1,18 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,1 SPORTZ
+http://185.236.229.21:9981/play/a072
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,2 SPORTZ
+http://185.236.229.21:9981/play/a06i
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,3 SPORTZ
+http://185.236.229.21:9981/play/a06j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,4 SPORTZ
+http://185.236.229.21:9981/play/a03n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,5 SPORTZ
+http://185.236.229.21:9981/play/a03c
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,1 SPORTZ
 https://cloudserver.server-cdn-streaming.com/live-player/1/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,2 SPORTZ
