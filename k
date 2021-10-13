@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,1 SPORTZ
 https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 
