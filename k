@@ -81,6 +81,22 @@ http://185.236.229.21:9981/play/a06j
 http://185.236.229.21:9981/play/a03n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png" ,5 SPORTZ
 http://185.236.229.21:9981/play/a03c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,25 SPORTZ
+https:golive.cf/live/event1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,25 SPORTZ
+https:golive.cf/live/event2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,25 SPORTZ
+https:golive.cf/live/event3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,25 SPORTZ
+https:golive.cf/live/event4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,25 SPORTZ
+https:golive.cf/live/event5.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png.png" ,24 SPORTZ
 https://cloudserver.server-cdn-streaming.com/live-player/24/live.m3u8
 
