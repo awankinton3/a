@@ -12,50 +12,49 @@ http://golive.cf/live/event3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
 http://golive.cf/live/event4.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg", Sport TV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg", Sport TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 2
 https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg", Sport TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 3
 https://www.wopep.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg", Sport TV 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 4
 https://www.wopep.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/DzhCJdyV/IMG-20211020-231859-910.jpg", Sport TV 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 5
 https://www.wopep.com/02_SPORTTV_5_720p/chunklist.m3u8
-
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", SPOTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SPOTV 1
 https://www.wopep.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", SPOTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SPOTV
 https://www.wopep.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", SPOTV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SPOTV 2
 https://www.wopep.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", Bein Sport 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Bein Sport 1
 https://www.wopep.com/01_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", Bein Sport 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Bein Sport 2
 https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", PremierHD1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", PremierHD1
 https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", PremierHD2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", PremierHD2
 https://www.wopep.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", PremierHD3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", PremierHD3
 https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", PremierHD4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", PremierHD4
 https://www.wopep.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", PremierHD5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", PremierHD5
 https://www.wopep.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sporthd1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd1
 https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sporthd2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd2
 https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sporthd3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sport5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport5
 https://www.wopep.com/02_sport5_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sport6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport6
 https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg", True sport7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport7
 https://www.wopep.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzZ8zkmg/IMG-20211020-225107-306.jpg",NBA True
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png",NBA True
 https://www.wopep.com/02_nbahd_720p/chunklist.m3u8
 
 
