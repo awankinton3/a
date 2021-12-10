@@ -1,6 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel18.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel19.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 03 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel20.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel21.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel22.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel23.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
+https://tvmalaysiaonline.xyz/hls/channel24.m3u8|referer=https://www.tvmalaysia.online/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
 http://golive.cf/live/event1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
