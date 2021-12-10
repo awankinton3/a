@@ -58,19 +58,6 @@ https://www.wopep.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd3
-https://www.wopep.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport5
-https://www.wopep.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport6
-https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sport7
-https://www.wopep.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Bein Sport 1
-https://www.wopep.com/01_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Bein Sport 2
-https://www.wopep.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png",NBA True
-https://www.wopep.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd4
 
 
