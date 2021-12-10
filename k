@@ -21,17 +21,6 @@ https://tvmalaysiaonline.xyz/hls/channel23.m3u8|referer=https://www.tvmalaysia.o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
 https://tvmalaysiaonline.xyz/hls/channel24.m3u8|referer=https://www.tvmalaysia.online/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
-http://golive.cf/live/event1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
-http://golive.cf/live/event2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 03 SPORTZ
-http://golive.cf/live/event3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
-http://golive.cf/live/event4.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
