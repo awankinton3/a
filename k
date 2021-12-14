@@ -27,6 +27,15 @@ http://103.226.232.199:8004/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
 http://103.226.232.199:8004/play/a04m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
+http://103.226.232.199:8005/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
+http://103.226.232.199:8005/play/a061/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
+http://103.226.232.199:8005/play/a062/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
