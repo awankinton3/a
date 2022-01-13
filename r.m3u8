@@ -2,10 +2,15 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjdmOWZmNWEtMTY3Yi0zZDk5LWE3MTYtMjFhNGNlYmUzNjk0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,10 MUSLIM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,10 319 MUSLIM
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1641832200&end=1641835800
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjdmOWZmNWEtMTY3Yi0zZDk5LWE3MTYtMjFhNGNlYmUzNjk0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,11 MUSLIM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,11 320 MUSLIM
 https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1641918600&end=1641922200
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjdmOWZmNWEtMTY3Yi0zZDk5LWE3MTYtMjFhNGNlYmUzNjk0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,12 321 MUSLIM
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1642005000&end=1642008600
