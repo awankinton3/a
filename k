@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
 http://202.150.172.34:4000/play/sctvhdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
@@ -34,15 +43,6 @@ http://103.226.232.199:8004/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
 http://103.226.232.199:8004/play/a04m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://103.226.232.199:8005/play/a060/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://103.226.232.199:8005/play/a061/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://103.226.232.199:8005/play/a062/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
