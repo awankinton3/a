@@ -1,30 +1,38 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel18.m3u8|referer=https://www.tvmalaysia.online/
-
+http://202.150.172.34:4000/play/sctvhdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel19.m3u8|referer=https://www.tvmalaysia.online/
-
+http://202.150.172.34:4000/play/indosiarhdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 03 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel20.m3u8|referer=https://www.tvmalaysia.online/
+http://202.150.172.34:4000/play/ochannelhdt2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel21.m3u8|referer=https://www.tvmalaysia.online/
-
+http://202.150.172.34:4000/play/trans7hdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel22.m3u8|referer=https://www.tvmalaysia.online/
+http://202.150.172.34:4000/play/transtvhdt2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel23.m3u8|referer=https://www.tvmalaysia.online/
-
+http://202.150.172.34:4000/play/rctit2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
-https://tvmalaysiaonline.xyz/hls/channel24.m3u8|referer=https://www.tvmalaysia.online/
+http://202.150.172.34:4000/play/gtvt2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 08 SPORTZ
+http://202.150.172.34:4000/play/mnctvt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
+http://202.150.172.34:4000/play/inewst2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 10 SPORTZ
+http://202.150.172.34:4000/play/rtvt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 11 SPORTZ
+http://202.150.172.34:4000/play/tvrisporthdt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 12 SPORTZ
+http://202.150.172.34:4000/play/tvrinasionalt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
 http://103.226.232.199:8004/play/a04l/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
 http://103.226.232.199:8004/play/a04m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
