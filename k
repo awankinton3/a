@@ -1,9 +1,10 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,18 324 MUSLIM
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1642431600&end=1642435200
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 1 SPORTZ
+https://rebrand.ly/e0i8mk8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 2 SPORTZ
+https://rebrand.ly/7w44jhc
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
