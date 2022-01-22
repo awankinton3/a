@@ -1,5 +1,10 @@
 #EXTM3U
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,MUSLIM TV
+https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1642777200&end=1642780800
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 1 SPORTZ
 https://rebrand.ly/e0i8mk8
 
