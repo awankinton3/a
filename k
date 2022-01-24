@@ -1,25 +1,23 @@
 #EXTM3U
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NCkFVjR/et.png" ,MUSLIM TV
-https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd?begin=1642777200&end=1642780800
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
+http://tvnid.wapgem.com/vidio/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
+http://tvnid.wapgem.com/vidio/ch2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
+http://tvnid.wapgem.com/vidio/ch3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 0 SPORTZ
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 1 SPORTZ
 https://rebrand.ly/e0i8mk8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 2 SPORTZ
 https://rebrand.ly/7w44jhc
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
 http://202.150.172.34:4000/play/sctvhdt2
