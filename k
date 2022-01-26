@@ -2,13 +2,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvnid.wapgem.com/vidio/ch1.m3u8
+http://tvnid.wapgem.com/vidio/7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvnid.wapgem.com/vidio/ch2.m3u8
+http://tvnid.wapgem.com/vidio/8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvnid.wapgem.com/vidio/ch3.m3u8
+http://tvnid.wapgem.com/vidio/9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 0 SPORTZ
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
