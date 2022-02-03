@@ -10,49 +10,14 @@ http://tvnid.wapgem.com/vidio/8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
 http://tvnid.wapgem.com/vidio/9.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 0 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US PRIME
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 1 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 2 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://rebrand.ly/7w44jhc
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
-http://202.150.172.34:4000/play/sctvhdt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
-http://202.150.172.34:4000/play/indosiarhdt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 03 SPORTZ
-http://202.150.172.34:4000/play/ochannelhdt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
-http://202.150.172.34:4000/play/trans7hdt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
-http://202.150.172.34:4000/play/transtvhdt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
-http://202.150.172.34:4000/play/rctit2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
-http://202.150.172.34:4000/play/gtvt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 08 SPORTZ
-http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
-http://202.150.172.34:4000/play/inewst2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 10 SPORTZ
-http://202.150.172.34:4000/play/rtvt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 11 SPORTZ
-http://202.150.172.34:4000/play/tvrisporthdt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 12 SPORTZ
-http://202.150.172.34:4000/play/tvrinasionalt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
-http://103.226.232.199:8004/play/a04l/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
-http://103.226.232.199:8004/play/a04m/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
@@ -92,5 +57,40 @@ https://www.wopep.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd3
 https://www.wopep.com/02_2sporthd3_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", True sporthd4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 01 SPORTZ
+http://202.150.172.34:4000/play/sctvhdt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 02 SPORTZ
+http://202.150.172.34:4000/play/indosiarhdt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 03 SPORTZ
+http://202.150.172.34:4000/play/ochannelhdt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 04 SPORTZ
+http://202.150.172.34:4000/play/trans7hdt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
+http://202.150.172.34:4000/play/transtvhdt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
+http://202.150.172.34:4000/play/rctit2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
+http://202.150.172.34:4000/play/gtvt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 08 SPORTZ
+http://202.150.172.34:4000/play/mnctvt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
+http://202.150.172.34:4000/play/inewst2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 10 SPORTZ
+http://202.150.172.34:4000/play/rtvt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 11 SPORTZ
+http://202.150.172.34:4000/play/tvrisporthdt2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 12 SPORTZ
+http://202.150.172.34:4000/play/tvrinasionalt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
+http://103.226.232.199:8004/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
+http://103.226.232.199:8004/play/a04m/index.m3u8
 
 
