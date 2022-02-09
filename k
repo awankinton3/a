@@ -2,16 +2,16 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-https://tvnid.wapgem.com/vidio/master.m3u8
+http://tvn.x10.bz/vidio/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvnid.wapgem.com/vidio/master-6.m3u8
+http://tvn.x10.bz/vidio/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvnid.wapgem.com/vidio/master-7.m3u8
+http://tvn.x10.bz/vidio/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvnid.wapgem.com/vidio/master-8.m3u8
+http://tvn.x10.bz/vidio/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US PRIME
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
