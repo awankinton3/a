@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
 http://tvn.x10.bz/channel/master.m3u8
 
