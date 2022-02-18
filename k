@@ -1,22 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-http://tvn.x10.bz/channel/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1644599048~dirs=2~ip=78.108.180.118~data=HuQw3I7nJhMV9FHfHFCXXwZZjuADTa3lt9hxq0nBgEniTFYcjhuw1RJqBR8jezUV~token=041d4290e00b7e565f75c/hls/ipfmix/3.m3u8?start=0&
+http://tvn.x10.bz/vidio/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvn.x10.bz/channel/master-6.m3u8
+http://tvn.x10.bz/vidio/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvn.x10.bz/channel/master-7.m3u8
+http://tvn.x10.bz/vidio/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvn.x10.bz/channel/master-8.m3u8
+http://tvn.x10.bz/vidio/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 4 SPORTZ
-http://tvn.x10.bz/channel/master-17.m3u8
+http://tvn.x10.bz/vidio/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US PRIME
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=fbd7939d674997cdb4692d34de8633c4268ef7e5a44f541a7cbde7626ef57566
@@ -26,6 +23,10 @@ https://rebrand.ly/e0i8mk8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://rebrand.ly/7w44jhc
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+https://dornatoken.secure.footprint.net/token=nva=1644599048~dirs=2~ip=78.108.180.118~data=HuQw3I7nJhMV9FHfHFCXXwZZjuADTa3lt9hxq0nBgEniTFYcjhuw1RJqBR8jezUV~token=041d4290e00b7e565f75c/hls/ipfmix/3.m3u8?start=0&
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
