@@ -28,7 +28,6 @@ https://rebrand.ly/7w44jhc
 https://dornatoken.secure.footprint.net/token=nva=1644599048~dirs=2~ip=78.108.180.118~data=HuQw3I7nJhMV9FHfHFCXXwZZjuADTa3lt9hxq0nBgEniTFYcjhuw1RJqBR8jezUV~token=041d4290e00b7e565f75c/hls/ipfmix/3.m3u8?start=0&
 
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 2
