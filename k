@@ -24,6 +24,24 @@ https://rebrand.ly/e0i8mk8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://rebrand.ly/7w44jhc
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
+http://urtv.cc:80/109789/109789/6707
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 5 SPORTZ
+http://urtv.cc:80/109789/109789/9029
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 4 SPORTZ
+http://urtv.cc:80/109789/109789/6712
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 3 SPORTZ
+http://urtv.cc:80/109789/109789/6711
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 2 SPORTZ
+http://urtv.cc:80/109789/109789/6710
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 1 SPORTZ
+http://urtv.cc:80/109789/109789/6708
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://dornatoken.secure.footprint.net/token=nva=1644599048~dirs=2~ip=78.108.180.118~data=HuQw3I7nJhMV9FHfHFCXXwZZjuADTa3lt9hxq0nBgEniTFYcjhuw1RJqBR8jezUV~token=041d4290e00b7e565f75c/hls/ipfmix/3.m3u8?start=0&
 
