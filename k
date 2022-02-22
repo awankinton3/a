@@ -19,7 +19,7 @@ http://tvn.x10.bz/vidio/master-17.m3u8
 http://beetv.my.id/x/oxygen-tvrisport-%40burhansyam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SINEMA X
-http://202.150.172.35:8000/play/sinemaxs2
+http://beetv.my.id/x/oxygen-sinemaindonesia-x-%40burhansyam.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
