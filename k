@@ -1,22 +1,22 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-http://tvn.x10.bz/vidio/master.m3u8
+http://tvn.x10.bz/xchannel/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
-http://tvn.x10.bz/vidio/master-18.m3u8
+http://tvn.x10.bz/xchannel/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvn.x10.bz/vidio/master-6.m3u8
+http://tvn.x10.bz/xchannel/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvn.x10.bz/vidio/master-7.m3u8
+http://tvn.x10.bz/xchannel/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvn.x10.bz/vidio/master-8.m3u8
+http://tvn.x10.bz/xchannel/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 4 SPORTZ
-http://tvn.x10.bz/vidio/master-17.m3u8
+http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORT
 http://beetv.my.id/x/oxygen-tvrisport-%40burhansyam.m3u8
