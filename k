@@ -18,8 +18,8 @@ http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 4 SPORTZ
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORT
-http://beetv.my.id/x/oxygen-tvrisport-%40burhansyam.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
@@ -44,9 +44,6 @@ http://urtv.cc:80/109789/109789/6710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 1 SPORTZ
 http://urtv.cc:80/109789/109789/6708
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
