@@ -121,4 +121,10 @@ http://103.226.232.199:8004/play/a04l/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
 http://103.226.232.199:8004/play/a04m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", RING 2002
+https://www1.xpeer.xyz/hls/lord-rings-two-towers-2002/playlist_480.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", RING 2003
+https://www1.xpeer.xyz/hls/lord-rings-return-king-2003/playlist_480.m3u8
+
 
