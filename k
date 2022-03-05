@@ -21,6 +21,9 @@ http://tvn.x10.bz/xchannel/master-17.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://dornatoken.secure.footprint.net/token=nva=1646411351~dirs=2~ip=173.245.211.10~data=zstHJQbpDVP56zUoiYchRrTfgWW1sm330VBqBTX%252FHDpMKL3PIWZY8vxHoiRSUdVk~token=017803cca3bc7ca5ae09c/hls/ipfmix/3.m3u8?start=0&
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+http://pullhls3948069e.live.126.net/live/m0t0/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
 
