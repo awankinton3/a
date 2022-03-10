@@ -3,6 +3,12 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
 http://tvn.x10.bz/xchannel/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+https://rebrand.ly/e0i8mk8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
+https://rebrand.ly/7w44jhc
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
 http://tvn.x10.bz/xchannel/master-18.m3u8
 
@@ -20,15 +26,6 @@ http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/3.m3u8?start=0&
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-http://pullhls3948069e.live.126.net/live/m0t0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://rebrand.ly/e0i8mk8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://rebrand.ly/7w44jhc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/109789/109789/6707
