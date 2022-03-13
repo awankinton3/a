@@ -28,22 +28,22 @@ http://tvn.x10.bz/xchannel/master-17.m3u8
 https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
-http://urtv.cc:80/109789/109789/6707
+http://urtv.cc:80/454781209544/431009674535/6707
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 5 SPORTZ
-http://urtv.cc:80/109789/109789/9029
+http://urtv.cc:80/454781209544/431009674535/6793
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 4 SPORTZ
-http://urtv.cc:80/109789/109789/6712
+http://urtv.cc:80/454781209544/431009674535/6712
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 3 SPORTZ
-http://urtv.cc:80/109789/109789/6711
+http://urtv.cc:80/454781209544/431009674535/6711
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 2 SPORTZ
-http://urtv.cc:80/109789/109789/6710
+http://urtv.cc:80/454781209544/431009674535/6710
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 1 SPORTZ
-http://urtv.cc:80/109789/109789/6708
+http://urtv.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
 https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
