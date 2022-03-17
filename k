@@ -9,6 +9,12 @@ http://194.233.77.149:25461/live/untukapp/untukapp/982.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 http://194.233.77.149:25461/live/untukapp/untukapp/983.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+https://rebrand.ly/e0i8mk8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
+https://rebrand.ly/7w44jhc
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 http://194.233.77.149:25461/live/untukapp/untukapp/984.m3u8
 
@@ -97,13 +103,6 @@ http://202.150.172.34:4000/play/ochannelhdt2
 http://202.150.172.34:4000/play/trans7hdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
 http://202.150.172.34:4000/play/transtvhdt2
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://rebrand.ly/e0i8mk8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://rebrand.ly/7w44jhc
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
 http://202.150.172.34:4000/play/rctit2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
@@ -126,11 +125,5 @@ http://103.226.232.199:8004/play/a04l/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 00 SPORTZ
 http://103.226.232.199:8004/play/a04m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", RING 2002
-https://www1.xpeer.xyz/hls/lord-rings-two-towers-2002/playlist_480.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", RING 2003
-https://www1.xpeer.xyz/hls/lord-rings-return-king-2003/playlist_480.m3u8
 
 
