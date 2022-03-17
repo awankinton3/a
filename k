@@ -4,10 +4,13 @@
 http://tvn.x10.bz/xchannel/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://rebrand.ly/e0i8mk8
+http://194.233.77.149:25461/live/untukapp/untukapp/982.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://rebrand.ly/7w44jhc
+http://194.233.77.149:25461/live/untukapp/untukapp/983.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+http://194.233.77.149:25461/live/untukapp/untukapp/984.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
 http://tvn.x10.bz/xchannel/master-18.m3u8
@@ -94,6 +97,12 @@ http://202.150.172.34:4000/play/ochannelhdt2
 http://202.150.172.34:4000/play/trans7hdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 05 SPORTZ
 http://202.150.172.34:4000/play/transtvhdt2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+https://rebrand.ly/e0i8mk8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
+https://rebrand.ly/7w44jhc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 06 SPORTZ
 http://202.150.172.34:4000/play/rctit2
