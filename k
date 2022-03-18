@@ -10,7 +10,7 @@ https://rebrand.ly/e0i8mk8
 https://rebrand.ly/7w44jhc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv
+https://rebrand.ly/3t0uu98
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
 http://tvn.x10.bz/xchannel/master-18.m3u8
