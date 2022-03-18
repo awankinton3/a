@@ -4,19 +4,13 @@
 http://tvn.x10.bz/xchannel/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-http://194.233.77.149:25461/live/untukapp/untukapp/982.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-http://194.233.77.149:25461/live/untukapp/untukapp/983.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://rebrand.ly/7w44jhc
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-http://194.233.77.149:25461/live/untukapp/untukapp/984.m3u8
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
 http://tvn.x10.bz/xchannel/master-18.m3u8
@@ -34,7 +28,7 @@ http://tvn.x10.bz/xchannel/master-8.m3u8
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1646588238~dirs=2~ip=173.245.211.10~data=02OseSAqJ2NVi0eY0DmcbqOlQwH%252BRp0gkuK35jAuo%252FR%252BTyA0iihLfBoYYSQxLvII~token=06189150333d2b769eca1/hls/ipfmix/3.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1647592767~dirs=2~ip=173.245.211.11~data=D44PH9rpjK6e%252BAqYO6%252FfviRZlFuGlHYtGHV2cvoVm%252B%252F%252Bhl%252FniIR6CGFyINZxKw9C~token=0441e4024df7845b16fdf/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
