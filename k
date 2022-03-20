@@ -16,7 +16,7 @@ https://rebrand.ly/3t0uu98
 http://tvn.x10.bz/xchannel/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1647678820~dirs=2~ip=0.0.0.0~data=AGtm2N%252Byvz1fScJoFJDW1%252FbNSUEfgit9jDzQfdCO%252Fd1mMCFcTH4C11Y3dfUiIDNc~token=0894fb04a2a0a27a3d2f3/hls/ipfmix/3.m3u8?start=0&
+https://dornatoken.secure.footprint.net/token=nva=1647769318~dirs=2~ip=0.0.0.0~data=FaLPvbIWVdNXDz1TfKmaFgPwpekLWlZ1W6xK0GPshPQrBr0EYTxpBy9bxzcOLnW8~token=0d5b0c40d364a5a958d08/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://tvn.x10.bz/xchannel/master-6.m3u8
