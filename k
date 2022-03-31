@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-http://begaltvku.site/vidprem/master.m3u8
+http://begaltvku.site/ventidos/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://rebrand.ly/e0i8mk8
@@ -13,19 +13,19 @@ https://rebrand.ly/7w44jhc
 https://rebrand.ly/3t0uu98
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OC H SPORTZ
-http://begaltvku.site/vidprem/master-18.m3u8
+http://begaltvku.site/ventidos/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://dornatoken.secure.footprint.net/token=nva=1647769318~dirs=2~ip=0.0.0.0~data=FaLPvbIWVdNXDz1TfKmaFgPwpekLWlZ1W6xK0GPshPQrBr0EYTxpBy9bxzcOLnW8~token=0d5b0c40d364a5a958d08/hls/ipfmix/3.m3u8?start=0&
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://begaltvku.site/vidprem/master-6.m3u8
+http://begaltvku.site/ventidos/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://begaltvku.site/vidprem/master-7.m3u8
+http://begaltvku.site/ventidos/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://begaltvku.site/vidprem/master-8.m3u8
+http://begaltvku.site/ventidos/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
