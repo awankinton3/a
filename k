@@ -99,13 +99,6 @@ http://202.150.172.34:4000/play/rctit2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 07 SPORTZ
 http://202.150.172.34:4000/play/gtvt2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 08 SPORTZ
-http://202.150.172.34:4000/play/mnctvt2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 09 SPORTZ
-http://202.150.172.34:4000/play/inewst2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 10 SPORTZ
-http://202.150.172.34:4000/play/rtvt2
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 11 SPORTZ
 http://202.150.172.34:4000/play/tvrisporthdt2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", 12 SPORTZ
