@@ -46,7 +46,8 @@ http://urtv.cc:80/454781209544/431009674535/6710
 http://urtv.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
-https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hcqANGK1lf8XO52T0BsKI)/dm/3/x6p1gw7/d/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 2
 https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 3
