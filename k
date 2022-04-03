@@ -18,6 +18,9 @@ http://begaltvku.site/ventidos/master-18.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hcqANGK1lf8XO52T0BsKI)/dm/3/x6p1gw7/d/live-3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://begaltvku.site/ventidos/master-6.m3u8
 
@@ -46,7 +49,7 @@ http://urtv.cc:80/454781209544/431009674535/6710
 http://urtv.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 1
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hcqANGK1lf8XO52T0BsKI)/dm/3/x6p1gw7/d/live-3.m3u8
+https://www.wopep.com/02_SPORTTV_1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", Sport TV 2
 https://www.wopep.com/02_SPORTTV_2_720p/chunklist.m3u8
