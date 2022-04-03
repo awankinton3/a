@@ -16,7 +16,7 @@ https://rebrand.ly/3t0uu98
 http://begaltvku.site/ventidos/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1648927039~dirs=2~ip=0.0.0.0~data=%252Bb1fqS4YtW5qXynYTGmfnsC8fLBbhAKoYMJsiDzdCw%252Fp%252BRflx%252BB2zudOZSvdHgGr~token=017ff21d2df854ca4a4b3/hls/ipfmix/3.m3u8?start=0&
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://begaltvku.site/ventidos/master-6.m3u8
