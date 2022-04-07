@@ -30,6 +30,9 @@ http://begaltvku.site/ventidos/master-7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
 http://begaltvku.site/ventidos/master-8.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 4 SPORTZ
+http://begaltvku.site/ventidos/master-34.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
 
@@ -49,6 +52,6 @@ http://urtv.cc:80/454781209544/431009674535/6710
 http://urtv.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", BT SPORT 1
-https://www.wopep.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://birutv.com/sport@birutv/live/bt1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", BT SPORT 2
-https://www.wopep.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://birutv.com/sport@birutv/live/bt2.m3u8
