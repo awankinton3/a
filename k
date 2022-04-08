@@ -19,7 +19,7 @@ http://begaltvku.site/ventidos/master-18.m3u8
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3hcqANGK1lf8XO52T0BsKI)/dm/3/x6p1gw7/d/live-3.m3u8
+https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1_qWToTVuYDd6DuQ6HB-lU)/dm/3/x6p1gw7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://begaltvku.site/ventidos/master-6.m3u8
