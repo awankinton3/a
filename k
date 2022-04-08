@@ -51,7 +51,15 @@ http://urtv.cc:80/454781209544/431009674535/6710
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AS 1 SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6708
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", BT SPORT 1
-https://birutv.com/sport@birutv/live/bt1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", BT SPORT 2
-https://birutv.com/sport@birutv/live/bt2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
+http://urtv.cc:80/454781209544/431009674535/9033
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
+http://urtv.cc:80/449042/449042/9034
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORTZ 1 HD
+http://urtv.cc:80/449042/449042/6610
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORTZ 2 HD
+http://urtv.cc:80/449042/449042/6611
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORTZ 2 HD
+http://urtv.cc:80/449042/449042/6612
