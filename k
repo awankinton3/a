@@ -52,9 +52,9 @@ http://urtv.cc:80/454781209544/431009674535/6710
 http://urtv.cc:80/454781209544/431009674535/6708
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/9033
+http://mvu03.wanicelife.com:8880/SFL143499/N88PH236/2942
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
 http://urtv.cc:80/449042/449042/9034
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", T SPORTZ 1 HD
