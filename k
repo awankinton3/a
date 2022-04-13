@@ -16,7 +16,7 @@ https://rebrand.ly/ch5691r
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G1_qWToTVuYDd6DuQ6HB-lU)/dm/3/x6p1gw7/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G8h7WH-H-msP1MmTMD8YWIieo7Byy0AdflWLGS6dHV_k)/dm/3/x6p1gw7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://tvn.x10.bz/TvN_ID/master-6.m3u8
