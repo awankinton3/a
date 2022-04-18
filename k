@@ -8,7 +8,7 @@ https://rebrand.ly/e0i8mk8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=xxxx13xxxx&a=useesports2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesports2
 https://rebrand.ly/7w44jhc
 
@@ -22,7 +22,7 @@ https://rebrand.ly/ch5691r
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G5W3ED3t02IAjCMCz1V2mHttzEhEE_XgA6gUuFo1tCNs)/dm/3/x6p1gw7/d/live-3.m3u8
+https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6P2IO-zQQdKJZh--f4_P6tWzT_Bw4ZQrGpJoTVejuhN)/dm/3/x6p1gw7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://tvn.x10.bz/TvN_ID/master-6.m3u8
