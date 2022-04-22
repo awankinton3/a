@@ -12,10 +12,16 @@ https://rebrand.ly/e0i8mk8
 https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesports2
 https://rebrand.ly/7w44jhc
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=xxxx13xxxx&a=spotv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
+https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=spotv
 https://rebrand.ly/3t0uu98
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=xxxx13xxxx&a=spotv2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
+https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=spotv2
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
