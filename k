@@ -27,19 +27,19 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://stream-03.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G94lqpZu2ZJHLtLI-D0glVf-iIjkxOiQEQ8lQjWg8VDs)/dm/3/x6p1gw7/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://tvn.x10.bz/TvN_ID/master-6.m3u8
+https://bagoltvku.my.id/ubaconang/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://tvn.x10.bz/TvN_ID/master-7.m3u8
+https://bagoltvku.my.id/ubaconang/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://tvn.x10.bz/TvN_ID/master-8.m3u8
+https://bagoltvku.my.id/ubaconang/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OCH SPORTZ
-http://tvn.x10.bz/TvN_ID/master-18.m3u8
+https://bagoltvku.my.id/ubaconang/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-http://tvn.x10.bz/TvN_ID/master.m3u8
+https://bagoltvku.my.id/ubaconang/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
