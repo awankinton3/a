@@ -2,12 +2,12 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-http://axcestv.vip:8080/freeview/axcestv/805
+https://andistores.online/uss/useesport.m3u8
 https://rebrand.ly/e0i8mk8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-http://axcestv.vip:8080/freeview/axcestv/806
+https://andistores.online/uss/useesports2.m3u8
 https://rebrand.ly/7w44jhc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
