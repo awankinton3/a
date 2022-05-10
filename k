@@ -2,22 +2,22 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://winhometv.xyz/USEE/mpd.m3u8?channel=useesport
+https://andistores.online/uss/useesport.m3u8
 https://rebrand.ly/e0i8mk8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://winhometv.xyz/USEE/mpd.m3u8?channel=useesports2
+https://andistores.online/uss/useesports2.m3u8
 https://rebrand.ly/7w44jhc
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
-https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv
+https://andistores.online/uss/spotv.m3u8
 https://rebrand.ly/3t0uu98
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
-https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv2
+https://andistores.online/uss/spotv2.m3u8
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
