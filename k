@@ -21,10 +21,9 @@ https://andistores.online/uss/spotv2.m3u8
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 https://dornatoken.secure.footprint.net/token=nva=1652543766~dirs=2~ip=0.0.0.0~data=H4Z6YoGbmxZQ4Jxk0%252BKIalln%252FPQ6GYP8qixsCgOwqkzjAqBM9u9MM%252FAD01rHZFKi~token=0603c579b0484de7a4caf/hls/ipfmix/3.m3u8?start=0&|referer=https://bangkebola.blogspot.com/p/if-p2pml.html?m=1
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://bagoltvku.my.id/ubaconang/master-6.m3u8
 
