@@ -23,7 +23,7 @@ https://rebrand.ly/ch5691r
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://ipfmix.cdn6.mcr.dorna.com/cb3f500e24b7a66a66486cc14d45274ecaab9bc9cb367da8d63984cd7b4408ca/1652453097/K8JKfwwDMAx53Kein9c%2FFuXniG7p5gP1N80jLhnvXHvFSpUwaOJrC%2BlE3atyzXBn/hls/ipfmix/3.m3u8?start=0&|referer=https://bangkebola.blogspot.com/p/if-p2pml.html?m=1
+https://dornatoken.secure.footprint.net/token=nva=1652543766~dirs=2~ip=0.0.0.0~data=H4Z6YoGbmxZQ4Jxk0%252BKIalln%252FPQ6GYP8qixsCgOwqkzjAqBM9u9MM%252FAD01rHZFKi~token=0603c579b0484de7a4caf/hls/ipfmix/3.m3u8?start=0&|referer=https://bangkebola.blogspot.com/p/if-p2pml.html?m=1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 http://bagoltvku.my.id/ubaconang/master-6.m3u8
