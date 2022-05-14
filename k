@@ -17,7 +17,7 @@ https://rebrand.ly/3t0uu98
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
-https://andistores.online/uss/spotv2.m3u8
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
