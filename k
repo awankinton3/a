@@ -25,19 +25,19 @@ https://dornatoken.secure.footprint.net/token=nva=1652543766~dirs=2~ip=0.0.0.0~d
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-http://bagoltvku.my.id/ubaconang/master-6.m3u8
+https://akumaymd.000webhostapp.com/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-http://bagoltvku.my.id/ubaconang/master-7.m3u8
+https://akumaymd.000webhostapp.com/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-http://bagoltvku.my.id/ubaconang/master-8.m3u8
+https://akumaymd.000webhostapp.com/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OCH SPORTZ
-http://bagoltvku.my.id/ubaconang/master-18.m3u8
+https://akumaymd.000webhostapp.com/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-http://bagoltvku.my.id/ubaconang/master.m3u8
+https://akumaymd.000webhostapp.com/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
