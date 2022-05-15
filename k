@@ -2,12 +2,12 @@
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=mycinema
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://mibitivi.xyz/sc/play.mpd?tekon=x13x101x13x&channel=useesport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=bioskopindonesia
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://mibitivi.xyz/sc/play.mpd?tekon=x13x101x13x&channel=useesports2
 
