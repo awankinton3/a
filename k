@@ -1,14 +1,14 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://andistores.online/uss/useesport.m3u8
-https://rebrand.ly/e0i8mk8
+https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://andistores.online/uss/useesports2.m3u8
-https://rebrand.ly/7w44jhc
+https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesports2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
