@@ -3,12 +3,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesport
+https://mibitivi.xyz/sc/play.mpd?tekon=x13x101x13x&channel=useesport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=x13x101x13x&a=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://mibitivi.xyz/sc/play.mpd?tekon=xxxx13xxxx&channel=useesports2
+https://mibitivi.xyz/sc/play.mpd?tekon=x13x101x13x&channel=useesports2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
