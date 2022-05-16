@@ -1,12 +1,12 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
 https://www.seulangatv.xyz/ns/usee/useesport.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 10; POCOPHONE F1 MIUI/V11.0.4.0.QEJMIXM)
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
 https://www.seulangatv.xyz/ns/usee/useesports2.m3u8|User-agent=Dalvik/2.1.0 (Linux; U; Android 10; POCOPHONE F1 MIUI/V11.0.4.0.QEJMIXM)
 
