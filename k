@@ -13,7 +13,6 @@ https://seulangatv.com/usee/get.m3u8?token=@@@@@&id=useesports2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
-https://rebrand.ly/3t0uu98
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
