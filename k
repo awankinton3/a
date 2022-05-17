@@ -4,12 +4,12 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://www.seulangatv.xyz/online/usee/get.m3u8?token=iloveyou&id=useesport
+https://www.seulangatv.xyz/online/usee/get.m3u8?token=@@@@@&id=useesport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://www.seulangatv.xyz/online/usee/get.m3u8?token=iloveyou&id=useesports2
+https://www.seulangatv.xyz/online/usee/get.m3u8?token=@@@@@&id=useesports2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
