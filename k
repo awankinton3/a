@@ -3,12 +3,10 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://seulangatv.com/usee/get.m3u8?token=@@@@@&id=useesport
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
-https://seulangatv.com/usee/get.m3u8?token=@@@@@&id=useesports2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 1 SPORTZ
@@ -24,19 +22,19 @@ https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxMsFcsiHwcXihud_y
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-https://akumaymd.000webhostapp.com/master-6.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-https://akumaymd.000webhostapp.com/master-7.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-https://akumaymd.000webhostapp.com/master-8.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OCH SPORTZ
-https://akumaymd.000webhostapp.com/master-18.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-https://akumaymd.000webhostapp.com/master.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
