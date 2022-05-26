@@ -20,23 +20,23 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GxMsFcsiHwcXihud_yj6qZLuaZzq6eUxWg2EnIkWuMmu)/dm/3/x6p1gw7/d/live-3.m3u8
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=spotv|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
-https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 2 SPORTZ
-https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
-https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OCH SPORTZ
-https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
-https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", AR SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6707
