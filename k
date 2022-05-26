@@ -3,11 +3,13 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesport|User-agent=Mozilla/5.0
 http://51.79.251.180:2082/fadilah/fadilah/2551
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
+https://www.seulangatv-online.ml/USEE/mpd/get.m3u8?id=useesports2|User-agent=Mozilla/5.0
 http://51.79.251.180:2082/fadilah/fadilah/2552
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
