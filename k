@@ -3,7 +3,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
-https://dornatoken.secure.footprint.net/token=nva=1653837803~dirs=2~ip=0.0.0.0~data=A77Vk%252BtGRjWq3FrlTM809U9zuRmQkPxzAKXldulEnVXimmQITwacQLNAb2SNIPCf~token=07d4a9624f21f559a4049/hls/ipfmix/3.m3u8?start=0&
 http://51.79.251.180:2082/fadilah/fadilah/2551
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
