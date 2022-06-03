@@ -20,7 +20,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://rebrand.ly/ch5691r
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gxjfk8eWX0RM_MIvXM91PoG-LcMQEwipjM1kyEWPtOgC)/dm/3/x6p1gw7/d/live-3.m3u8
+http://kunyak.my.id/sok/spotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-agent=Delvik
