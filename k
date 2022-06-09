@@ -1,13 +1,15 @@
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 1 SPORTZ
+https://seulangatv.com/useeTV/mpd/get.mpd?id=useesport|User-agent=SeulangaTV
 http://51.79.251.180:2082/fadilah/fadilah/2551
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", US 2 SPORTZ
+https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=SeulangaTV
 http://51.79.251.180:2082/fadilah/fadilah/2552
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
