@@ -8,6 +8,10 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", SP 2 SPORTZ
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", ID N SPORTZ
+https://seulangatv.com/vd/get.m3u8?id=205|User-agent=SeulangaTV
+https://www.seulangatv.xyz/ns/vidio/indosiar.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", ID 1 SPORTZ
 https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden1|User-agent=SeulangaTV
 https://www.seulangatv.xyz/ns/vidio/indosiar.m3u8
