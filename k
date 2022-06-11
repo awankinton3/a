@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", IN D SPORTZ
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", ID 1 SPORTZ
 https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden1|User-agent=SeulangaTV
+https://www.seulangatv.xyz/ns/vidio/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", ID 2 SPORTZ
+https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden2|User-agent=SeulangaTV
 https://www.seulangatv.xyz/ns/vidio/indosiar.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
