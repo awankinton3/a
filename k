@@ -28,9 +28,6 @@ http://51.79.251.180:2082/fadilah/fadilah/2551
 https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=punya=SeulangaTV
 http://51.79.251.180:2082/fadilah/fadilah/2552
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
-http://kunyak.my.id/soklah/spotv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 1 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-agent=Delvik
 
@@ -39,6 +36,9 @@ https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", CM 3 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", GP SPORTZ
+http://kunyak.my.id/soklah/spotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSf6wFs/w.png", OCH SPORTZ
 https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
