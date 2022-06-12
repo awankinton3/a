@@ -42,7 +42,7 @@ https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
 https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GP SPORTZ
-
+http://51.79.251.180:2082/fadilah/fadilah/640
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
 https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
@@ -51,7 +51,7 @@ https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 5 SPORTZ
-http://51.79.251.180:2082/fadilah/fadilah/8649
+http://51.79.251.180:2082/fadilah/fadilah/641
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
