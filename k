@@ -48,22 +48,22 @@ http://kunyak.my.id/soklah/spotv.m3u8
 https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AR SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6707
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 5 SPORTZ
 http://urtv.cc:80/454781209544/431009674535/6793
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6712
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 3 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6711
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 2 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6710
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 1 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6708
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 1 HD
 http://urtv.cc:80/449042/449042/6610
