@@ -51,7 +51,7 @@ https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 5 SPORTZ
-http://urtv.cc:80/454781209544/431009674535/6793
+http://51.79.251.180:2082/fadilah/fadilah/8649
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
