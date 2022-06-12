@@ -42,7 +42,7 @@ https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
 https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GP SPORTZ
-http://kunyak.my.id/soklah/spotv.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
 https://www.seulangatv.xyz/ns/vidio/ochannel.m3u8|User-agent=SeulangaTV
@@ -66,9 +66,9 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 1 HD
-http://urtv.cc:80/449042/449042/6610
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/270
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 2 HD
-http://urtv.cc:80/449042/449042/6611
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 2 HD
-http://urtv.cc:80/449042/449042/6612
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/273
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 3 HD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/271
 
