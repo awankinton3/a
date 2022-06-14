@@ -18,7 +18,7 @@ https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden1|User-agent=SeulangaT
 https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden2|User-agent=SeulangaTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GL SPORTZ
-https://tvn10.xyz/vidio/och.m3u8|User-agent=punya=SeulangaTV
+https://tvn10.xyz/vidio/chg.m3u8|User-agent=punya=SeulangaTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
