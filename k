@@ -18,7 +18,7 @@ https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden1|User-agent=SeulangaT
 https://seulangatv.xyz/bola/get_live.m3u8?id=pialapresiden2|User-agent=SeulangaTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GL SPORTZ
-https://dukun.masuk.id/olahraga/champgoal.m3u8|User-agent=Delvik
+https://tvn10.xyz/vidio/och.m3u8|User-agent=punya=SeulangaTV
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
@@ -30,6 +30,9 @@ https://seulangatv.com/useeTV/mpd/get.mpd?id=useesport|User-agent=punya=Seulanga
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 2 SPORTZ
 https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=punya=SeulangaTV
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
+https://tvn10.xyz/vidio/och.m3u8|User-agent=punya=SeulangaTV
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 1 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-agent=Delvik
 
@@ -38,9 +41,6 @@ https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 3 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
-https://dukun.masuk.id/lokal/ochannel.m3u8|User-agent=dukun
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AR SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
