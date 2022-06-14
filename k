@@ -40,7 +40,7 @@ https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
 https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
-https://dukun.masuk.id/lokal/ochannel1.m3u8|User-agent=SeulangaTV
+https://dukun.masuk.id/lokal/ochannel.m3u8|User-agent=dukun
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AR SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
