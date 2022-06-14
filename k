@@ -24,13 +24,11 @@ https://dukun.masuk.id/olahraga/champgoal.m3u8|User-agent=Delvik
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 1 SPORTZ
 https://seulangatv.com/useeTV/mpd/get.mpd?id=useesport|User-agent=punya=SeulangaTV
-http://51.79.251.180:2082/fadilah/fadilah/2551
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesports2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 2 SPORTZ
 https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=punya=SeulangaTV
-http://51.79.251.180:2082/fadilah/fadilah/2552
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 1 SPORTZ
 https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-agent=Delvik
@@ -48,7 +46,7 @@ https://dukun.masuk.id/lokal/ochannel1.m3u8|User-agent=SeulangaTV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 5 SPORTZ
-http://51.79.251.180:2082/fadilah/fadilah/641
+https://netwrk.ru.com/cdn/premium43/chunks.m3u8|referer=https://player.licenses4.me
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
