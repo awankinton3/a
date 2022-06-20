@@ -9,14 +9,11 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", SP 2 SPORTZ
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", ID 1 SPORTZ
-https://seulangatv.com/PUNYA-SEULANGATV/get.m3u8?id=indosiar|User-agent=SeulangaTV
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", ID 2 SPORTZ
-https://seulangatv.com/vd/get.m3u8?id=205|User-agent=SeulangaTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", ID N SPORTZ
+https://tvn10.xyz/vidio/indosiar.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GL SPORTZ
-https://tvn10.xyz/vidio/chg.m3u8|User-agent=punya=SeulangaTV
+https://tvn10.xyz/vidio/chg.m3u8|User-agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
@@ -29,16 +26,16 @@ https://seulangatv.com/useeTV/mpd/get.mpd?id=useesport|User-agent=punya=Seulanga
 https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=punya=SeulangaTV
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
-https://tvn10.xyz/vidio/och.m3u8|User-agent=punya=SeulangaTV
+https://tvn10.xyz/vidio/och.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 1 SPORTZ
-https://www.seulangatv.xyz/ns/vidio/champ1.m3u8|User-agent=Delvik
+https://tvn10.xyz/vidio/ch1.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 2 SPORTZ
-https://www.seulangatv.xyz/ns/vidio/champ2.m3u8|User-agent=Delvik
+https://tvn10.xyz/vidio/ch2.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", CM 3 SPORTZ
-https://www.seulangatv.xyz/ns/vidio/champ3.m3u8|User-agent=Delvik
+https://tvn10.xyz/vidio/ch3.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AR SPORTZ
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
