@@ -16,14 +16,14 @@ https://tvn10.xyz/vidio/indosiar.m3u8|User-agent=Mozilla/5.0
 https://tvn10.xyz/vidio/chg.m3u8|User-agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesport
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 1 SPORTZ
-https://seulangatv.com/useeTV/mpd/get.mpd?id=useesport|User-agent=punya=SeulangaTV
+https://iptv.lancartech.co.id/play/XOfd20uM983cbRLviSnhj1Ui4CAKcvMQwDb6uSbAkAo|User-agent=Mozilla/5.0
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/DRMurl/useetv.key?id=useesports2
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 2 SPORTZ
-https://seulangatv.com/useeTV/mpd/get.mpd?id=useesports2|User-agent=punya=SeulangaTV
+https://iptv.lancartech.co.id/play/XOfd20uM983cbRLviSnhjxi8F3k6VG8uQtCtffc3YPY|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", OCH SPORTZ
 https://tvn10.xyz/vidio/och.m3u8|User-agent=Mozilla/5.0
