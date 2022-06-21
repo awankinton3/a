@@ -9,7 +9,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", ID N SPORTZ
-https://tvn10.xyz/vidio/indosiar.m3u8|User-agent=Mozilla/5.0
+https://iptv.lancartech.co.id/play/XOfd20uM983cbRLviSnhj41gX1W1WAlfv8EFSg6ezAk|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", GL SPORTZ
 https://tvn10.xyz/vidio/chg.m3u8|User-agent=Mozilla/5.0
