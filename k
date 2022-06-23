@@ -36,27 +36,27 @@ https://tvn10.xyz/vidio/master-8.m3u8|User-agent=Mozilla/5.0
 https://tvn10.xyz/vidio/master-9.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AR SPORTZ
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 5 SPORTZ
-https://netwrk.ru.com/cdn/premium43/chunks.m3u8|referer=https://player.licenses4.me
+https://seulangatv.xyz/cdn/sports-free-43/chunks.m3u8|User-agent=Selanga
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 3 SPORTZ
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 2 SPORTZ
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 1 SPORTZ
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 1 HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/270
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/270
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 2 HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/273
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/273
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", T SPORTZ 3 HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/271
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/271
 
