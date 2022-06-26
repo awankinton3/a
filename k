@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 1 SPORTZ
 https://iptv.lancartech.co.id/play/XOfd20uM983cbRLviSnhj41gX1W1WAlfv8EFSg6ezAk|User-agent=Mozilla/5.0
 
