@@ -15,6 +15,7 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", GL SPORTZ
+https://raw.githubusercontent.com/awankinton3/b/main/o.m3u8
 https://tvn10.xyz/vidio/master-10.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", US 1 SPORTZ
