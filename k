@@ -18,10 +18,10 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-10.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", US 1 SPORTZ
-http://51.79.251.180:2082/fadilah/fadilah/2551
+http://51.79.251.180:2082/123654/123654/2551
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", US 2 SPORTZ
-http://51.79.251.180:2082/fadilah/fadilah/2552
+http://51.79.251.180:2082/123654/123654/2552
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", OCH SPORTZ
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8|User-agent=Mozilla/5.0
