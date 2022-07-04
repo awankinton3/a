@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 1 SPORTZ
 https://etslive-2-vidio-com.akamaized.net/exp=1656952656~acl=/hls-p/ingest_9211_*/*~hmac=437a6e24bf0fe5a1e588cd4c8d82f9890ae517662f979f365a72cb5f9fd86db8/hls-p/ingest_9211_720p/index.m3u8
 
@@ -23,6 +22,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", GL SPORTZ
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-10.m3u8|User-agent=Mozilla/5.0
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", US 1 SPORTZ
 http://51.79.251.180:2082/123654/123654/2551
