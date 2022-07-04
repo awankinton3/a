@@ -6,6 +6,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1656952656~acl=/hls-p/ingest_9211_
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-agent=Mozilla/5.0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 1 SPORTZ
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8|User-agent=Mozilla/5.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 2 SPORTZ
+https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8|User-agent=Mozilla/5.0
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", SP 1 SPORTZ
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
@@ -25,12 +31,6 @@ http://51.79.251.180:2082/123654/123654/2552
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", OCH SPORTZ
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-13.m3u8|User-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 1 SPORTZ
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-7.m3u8|User-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 2 SPORTZ
-https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-8.m3u8|User-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 3 SPORTZ
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-9.m3u8|User-agent=Mozilla/5.0
