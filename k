@@ -1,13 +1,11 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 1 SPORTZ
 https://rebrand.ly/p9e6piu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seulangatv.com/license/widevine/get_vidio?id=9211&token=ql0j0XayqPIRSSk4Hi8SRFS0D_FMyKTm52e=CYJaoNZyFRje7WzhqxpOC_kcwcV_H9bPrAeaqEzQIf=76jh5yUx0638sOxr0CZpi92UCbNY5Nm1qfzoZpRnDMmnAJ_lEFo29wv4qPL3le4kToII6CIWFv5X9Jic96w5_F45VU_UAbCCdPz2JGQkO0Hedxvsz=vwKxYMeu6kbuNaIwWD7b6fwdFdmpuJohUq7hs7sxHMQK=9QHEdxTJ92N6G9uJeEbk7bAlRiTqNmCzOCadrsD3AAWD3iYtA3etB1l_e5luWAxUi5TbJsvCvAhVjMsifteXb95poDIKK1awB130RPrfCqDCio_gM1DKk_idxSJC2ov8HYJVjVb2Adq0bsO8=gIdw3bMihgHSH3IFEeFPtqqbBNFuYurFLoN0wywo_KDr=4bWLbGyq1HM49XnEqC_rEqrDb31wJruY0qJ_G0jR_iuYFbZLgD79Q0et1dIo7rEDyNKTiBo5onGUZsetZ0EPUFnWVqQMSPpG3sz58eqtkcLeIRdx=T6i7e9aJNHismiZgDJi1z7IBX9L2V38eXfnQ38pXsKUFCe9yxZD0e=PwbhwrNuSEZDu0fxnsMw=f_99dU6WvDmnL9u9DSpln6h5q5TMxki6j8keIx=Ynv6aluGHpC1_9uMHyRibPb8lrjRk2fiV2jBtw2nxUcwdwgpmbzuf4Nzf2PsHxbCaTDiaqkVgY80AO=n8veWWMSMApsTUaSreWz5ZU8BSlvBJFUHmSukIL9BTyl6bdlQ8XV7XN03JiUzUsN7M_ARg1oUQSSonoLWtQe26QkKpDelAbOLfhQz8_KL8yLzxynelhzSaRqNcenhT3S6EgJpxqa_zFeFIVsIrLqjwCnJnMVlpEURAzcug
+#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
-https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-agent=aing=maung=Bandung109
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 1 SPORTZ
