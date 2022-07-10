@@ -5,8 +5,9 @@
 https://rebrand.ly/p9e6piu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=https://f053-194-233-88-110.ap.ngrok.io/drm/?decryptKey=XianZheng&cid=9211
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
+https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master.m3u8|User-agent=aing=maung=Bandung109
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", CM 1 SPORTZ
