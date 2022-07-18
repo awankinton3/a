@@ -41,7 +41,7 @@ https://tvn10.xyz/Meta/master-9.m3u8|User-agent=android-12
 http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", AS 5 SPORTZ
-http://ranapk.cf/cdn/TG@Ranapk73-43/playlist.m3u8|Referer=https://player.licenses4.me/
+http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/171978
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", AS 4 SPORTZ
 http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
