@@ -20,10 +20,10 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 https://tvn10.xyz/Meta/master-10.m3u8|User-agent=android-12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 1 SPORTZ
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=aing=maung=Bandung109
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=android-12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 2 SPORTZ
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8|User-agent=aing=maung=Bandung109
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8|User-agent=android-12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", OCH SPORTZ
 https://tvn10.xyz/Meta/master-13.m3u8|User-agent=android-12
