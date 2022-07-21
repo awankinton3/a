@@ -7,7 +7,6 @@ https://rebrand.ly/p9e6piu
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
 https://tvn10.xyz/Meta/master.m3u8|User-agent=android-12
-https://rebrand.ly/a5dcdb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", SP 1 SPORTZ
@@ -36,7 +35,7 @@ https://tvn10.xyz/Meta/master-10.m3u8|User-agent=android-12
 https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8|User-agent=android-12
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", US 2 SPORTZ
-https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8|User-agent=android-12
+https://rebrand.ly/a5dcdb
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", AR SPORTZ
 http://iptvtree.net:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
