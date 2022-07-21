@@ -1,13 +1,12 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCLdDp7/l.png", ID 1 SPORTZ
 https://rebrand.ly/p9e6piu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
-#EXTVLCOPT:User-agent=android-12
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
+https://tvn10.xyz/Meta/master.m3u8|User-agent=android-12
 https://rebrand.ly/a5dcdb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
