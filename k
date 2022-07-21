@@ -5,8 +5,8 @@ https://rebrand.ly/p9e6piu
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:User-agent=android-12
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ygRzmzG/s.png", ID 2 SPORTZ
-#EXTVLCOPT:http-user-agent=android-12
 https://rebrand.ly/a5dcdb
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
